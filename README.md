@@ -1,4 +1,4 @@
 smart_driving
 youtube link - https://www.youtube.com/watch?v=PLdYZDPwGek
 ![Work flow of the model](poster.png)
-![](srs.pdf)
+![embed]srs.pdf[/embed]
