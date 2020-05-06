@@ -9,20 +9,17 @@ Prepared by Team Procrastinators
 
 ### Table of Contents
 
-**Table of Contents ii
-Revision History ii**
-
-**1. Introduction 1**
+**1. Introduction**
 1.1 Purpose 1
 1.2 Scope
-**2. System Interfaces 2**
+**2. System Interfaces**
 2.1 Hardware Interface
 2.2 Software Interface 2
 **3. Product Functions**
 3.1 Search nearby places
 3.2 SOS calling
 3.3 Drowsiness Detector
-**4. Limitations 4**
+**4. Limitations**
 **5. Future Implementation 5**
 
 
@@ -43,8 +40,8 @@ providing overall comfort to drivers.
 Hardware consists of raspberry pi,a GPS module and a camera module. Power supply to the
 module will be given by the battery of the car and access of internet will be provided to the module
 via hotspot of the mobile phone.
-**_Figure 1. Block diagram of the hardware_**
 
+![Figure 1. Block diagram of the hardware_](block_diagram.png)
 
 **2.2 Software Interface**
 The software in the module is a python script which manages all the working of the
@@ -55,7 +52,7 @@ module.three main scripts are provided
 3. Hand gesture recognition script
 4. Near-by places script
 
-**Figure 2. Block diagram for the software and hardware integration along with features.
+![Figure 2. Block diagram for the software and hardware integration along with features.](chart.png)
 
 
 **3. Product Functions**
