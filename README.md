@@ -4,7 +4,7 @@ youtube link - https://www.youtube.com/watch?v=PLdYZDPwGek
 ```
 Version 1.
 Prepared by Team Procrastinators
-7/01/
+7/01/2020
 ```
 
 ### Table of Contents
@@ -66,7 +66,7 @@ module.three main scripts are provided
 and current location using google Distance Matrix api.
 4. Speaks the nearest place and its distance using gTTS python library.
 **3.2 SOS calling**
-Twilio platform is used for making SOS calling to registered family members
+1. Twilio platform is used for making SOS calling to registered family members
 **3.3 Drowsiness Detector**
 1. First, we’ll set up a camera that monitors a stream for faces.
 2. if a face is found, we apply facial landmark detection and extract the eye
