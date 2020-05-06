@@ -7,8 +7,6 @@ Prepared by Team Procrastinators
 7/01/
 ```
 
-**_Software Requirements Specification for <Project> Page 2_**
-
 ### Table of Contents
 
 **Table of Contents ii
@@ -24,8 +22,8 @@ Revision History ii**
 3.1 Search nearby places
 3.2 SOS calling
 3.3 Drowsiness Detector
-**4. Limitations 3
-5. Future Implementation 4**
+**4. Limitations 4**
+**5. Future Implementation 5**
 
 
 ### 1. Introduction
@@ -36,7 +34,7 @@ the driver while driving. Project uses various computer vision algorithms to det
 driver.
 **1.2 Scope**
 The project focuses on providing cutting edge technology to prevent road accidents. Project can be
-used to reduce the rate of casualties by road accidents due to distractions. The project focus on
+used to reduce the rate of casualties due to road accidents mainly due to distractions. The project focus on
 providing overall comfort to drivers.
 
 ### 2. System Interfaces
@@ -56,7 +54,8 @@ module.three main scripts are provided
 2. SOS calling script
 3. Hand gesture recognition script
 4. Near-by places script
-Figure 2. Block diagram for the software and hardware integration along with features.
+
+**Figure 2. Block diagram for the software and hardware integration along with features.
 
 
 **3. Product Functions**
