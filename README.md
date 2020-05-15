@@ -41,7 +41,7 @@ Hardware consists of raspberry pi,a GPS module and a camera module. Power supply
 module will be given by the battery of the car and access of internet will be provided to the module
 via hotspot of the mobile phone.
 
-![Figure 1. Block diagram of the hardware_](block_diagram.png)
+![Figure 1. Block diagram of the hardware_](Images/block_diagram.png)
 
 **2.2 Software Interface**
 The software in the module is a python script which manages all the working of the
@@ -52,7 +52,7 @@ module.three main scripts are provided
 3. Hand gesture recognition script
 4. Near-by places script
 
-![Figure 2. Block diagram for the software and hardware integration along with features.](chart.png)
+![Figure 2. Block diagram for the software and hardware integration along with features.](Images/chart.png)
 
 
 **3. Product Functions**
