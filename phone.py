@@ -1,6 +1,6 @@
-from twilio.rest import Client
+from twilio.rest import Client #MAIN
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv # for storing API KEYS
 load_dotenv()
 def call(user_phone_no,print_sid=True):
     ACCOUNT_SID = os.getenv('ACCOUNT_SID')
